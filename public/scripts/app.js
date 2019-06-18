@@ -16,7 +16,7 @@
  * limitations under the License
  */
 'use strict';
-import luxon from 'luxon-1.11.4';
+
 const weatherApp = {
   selectedLocations: {},
   addDialogContainer: document.getElementById('addDialogContainer'),
